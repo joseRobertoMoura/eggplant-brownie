@@ -1,5 +1,5 @@
 ## Conhecendo o Git 
-alteracao pasta um
+alteracao pasta dois
 
 ##### Instalação
 
